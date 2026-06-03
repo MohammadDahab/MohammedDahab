@@ -29,12 +29,12 @@ My work sits at the intersection of **genomics**, **multi-omics data analysis**,
 ## 🧬 Research & Expertise
 
 ```
-Multi-omics Analysis        ████████████░░  NGS · RNA-seq · GWAS · scRNA-seq
-Cancer Genomics             ████████████░░  Biomarker discovery · ML on genomic data
+Multi-omics Analysis        █████████░░░░░  NGS · RNA-seq · GWAS · scRNA-seq
+Cancer Genomics             ████████░░░░░░  Biomarker discovery · ML on genomic data
 Molecular Diagnostics       █████████████░  qPCR · IVD · GCP/GLP/GDP · SOPs
 Clinical Research           ████████░░░░░░  Trial design · ICH E6 · Data management
 Machine Learning            ████████░░░░░░  Regression · Classification · Scikit-learn
-Cloud Bioinformatics        █████░░░░░░░░░  AWS HealthOmics · GCP Life Sciences
+Cloud Bioinformatics        ███░░░░░░░░░░░  AWS HealthOmics · GCP Life Sciences
 ```
 
 ---
